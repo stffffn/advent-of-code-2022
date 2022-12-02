@@ -1,5 +1,5 @@
 blocks = []
-with open ('input') as f:
+with open ('input.txt') as f:
   blocks = f.read().split('\n\n')
 
 allCalories = []
